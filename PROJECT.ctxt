@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PROJECT()
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ loading()
+comment3.params=
+comment3.target=void\ menu()
+comment4.params=
+comment4.target=void\ donuts()
+comment5.params=
+comment5.target=void\ bites()
+comment6.params=
+comment6.target=void\ coffee()
+comment7.params=x\ y
+comment7.target=void\ choice(int,\ int)
+comment8.params=
+comment8.target=void\ bill()
+comment9.params=of
+comment9.target=void\ offers(int)
+numComments=10
